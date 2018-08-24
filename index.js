@@ -8,7 +8,7 @@ function happyHolidaysToo(name){
   return `Happy holidays ${name}!`
 }
 
-function happyHolidayToo(holidays, name){
+function happyHolidayTo(holidays, name){
   return `Happy ${holidays}, ${name}`
 }
 
